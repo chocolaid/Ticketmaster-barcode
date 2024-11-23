@@ -3,7 +3,7 @@ const bwipjs = require("bwip-js");
 const cors = require("cors");
 
 const app = express();
-const port = 3001;
+const port = 1117;
 
 // Enable CORS
 app.use(cors());
